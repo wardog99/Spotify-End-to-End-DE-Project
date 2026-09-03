@@ -1,0 +1,15 @@
+{
+	"name": "df-spotify-az-de-001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e3c940a-2d7d-4f9d-b9d0-4da67af77430",
+		"tenantId": "2ca5f179-eb73-4e5c-b0e9-948a6d528bc6"
+	}
+}
